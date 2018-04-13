@@ -5,7 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * Hello world!
- *
+ * This is for git testing
  */
 public class App 
 {
